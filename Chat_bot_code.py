@@ -48,9 +48,11 @@ def chatbot():
         user_input: str = input("You: ")
 
         if user_input.lower() == 'exit':
-            break
+         print("Bot: Bye")   
+         break
         elif user_input.lower() == 'bye':
-            break
+         print("Bot: Bye")   
+         break
 
 
         best_match: str | None = find_best_match(user_input, [q["question"] for q in knowledge_base["question"]])
