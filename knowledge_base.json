@@ -13,6 +13,10 @@
       "answer": "which class are you taking about? Is it for junior (1-5th class) or senior (6-12th class)?"
     },
     {
+      "question": "what is the school fees?",
+      "answer": "which class are you taking about? Is it for junior (1-5th class) or senior (6-12th class)?"
+    },
+    {
       "question": "junior",
       "answer": "2965 is the tuition fee."
     },
@@ -118,7 +122,7 @@
     },
     {
       "question": "what is the name of the school?",
-      "answer": "Arvind Gupta DAV Centenary Public School?"
+      "answer": "Arvind Gupta DAV Centenary Public School"
     },
     {
       "question": "What is the school affiliated with",
