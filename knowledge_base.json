@@ -8,13 +8,13 @@
       "question": "hey",
       "answer": "Hi"
     },
-    {
-      "question": "what is the fees of the school?",
-      "answer": "which class are you taking about? Is it for junior (1-5th class) or senior (6-12th class)?"
+   {
+      "question": "what is the school fees?",
+      "answer": "Can you specify the question a bit more? Do you want to know the - \n Tution fees \n Admission fees \n Transportation fees"
     },
     {
-      "question": "what is the school fees?",
-      "answer": "which class are you taking about? Is it for junior (1-5th class) or senior (6-12th class)?"
+      "question": "tution fees",
+      "answer": "which class are you talking about, junior or senior?"
     },
     {
       "question": "junior",
@@ -49,15 +49,15 @@
       "answer": "500"
     },
     {
-      "question": "What subjects are included in the school's curriculum?",
+      "question": "What subjects are included in the school",
       "answer": "It depends on which class you are talking about but the overall subjects are, science, hindi, sanskrit, sst and maths"
     },
     {
-      "question": "Are there any foreign language courses offered as part of the curriculum?",
+      "question": "additional language",
       "answer": "Yes, there are paid clubs for the kids from 5th to 8th class."
     },
     {
-      "question": "What is the school's policy on homework and is it related to cbse?",
+      "question": "homework",
       "answer": "The school tries to minimise the homework given to children and at the same time ensure that they are not deprived of enough knowledge, also we give all the activities provided to us by CBSE to make the subject more interactive."
     },
     {
@@ -69,27 +69,23 @@
       "answer": "We are very strict about dress code and other rules but in some special cases, say if the student is celebrating his/her birthday (until 8th class) they can wear any dress from home."
     },
     {
-      "question": "Are smart devices allowed in the school?",
+      "question": "smart devices",
       "answer": "No, smart devices are strictly prohibited in our school, even smartwatches are also not allowed."
     },
     {
       "question": "What is the exam schedule?",
-      "answer": "For the classes below 3rd there is no exam, just normal test, and for the classes above the exams are divided into four parts, 1st in July of 20 marks, 2nd in September of 80 marks, 3rd in January of 20marks, and the final paper in February of 80marks."
+      "answer": "For the classes below 3rd there is no exam, just normal test, \n for the classes above the exams are divided into four parts, 1st in July of 20 marks, 2nd in September of 80 marks, 3rd in January of 20marks, and the final paper in February of 80marks."
     },
     {
-      "question": "how many teachers are there in the school?",
+      "question": "teachers",
       "answer": "Around 100"
     },
     {
-      "question": "What is the number of teachers in the school?",
-      "answer": "Around 100"
-    },
-    {
-      "question": "how many students are there in the school?",
+      "question": "students in the school",
       "answer": "The number always changes but the average strength of students over the years is 3,000 to 4,0000"
     },
     {
-      "question": "are there any event or competitions organised in the school?",
+      "question": "event or competitions organised in the school?",
       "answer": "Yes there are at least 3-4 competition organised per month!, and events are also organised as per any festival."
     },
     {
@@ -105,43 +101,39 @@
       "answer": "I am a school query assistant chatbot,I may resolve your queries"
     },
     {
-      "question": "What type of queries you can resolve",
+      "question": "type of queries",
       "answer": "I can resolve queries about: Fees,Curriculum,School rules etc"
     },
     {
-      "question": "Are there any optional subjects available, and how can students choose them",
-      "answer": "Yes, there are optional subjects avalaible,students can apply them by informing respective subject teachers"
+      "question": "optional subjects available, and how can students choose them",
+      "answer": "Yes, there are optional subjects avalaible, \n In the 9th standard the students are given choice between Hindi and Sanskrit.There is also choice for skill subjects such as AI,IT and Food Production"
     },
     {
-      "question": "what are the optional subjects",
-      "answer": "In the 9th standard the students are given choice between Hindi and Sanskrit.There is also choice for skill subjects such as AI,IT and Food Production"
-    },
-    {
-      "question": "How are assessments and grading conducted",
+      "question": "assessments and grading",
       "answer": " the school uses a variety of assessment methods, including tests, projects, presentations, and class participation. Grading is usually based on a combination of these assessments, providing a well-rounded evaluation of a student's performance and progress."
     },
     {
-      "question": "Does the school offer any specialized programs, such as gifted education or special needs support?",
+      "question": "specialized programs",
       "answer": "Yes, the school provides specialized programs to cater to the needs of both gifted students and those with special needs. The school offers gifted education programs to challenge and nurture the talents of high-achieving students, as well as support services to ensure that all students can thrive academically."
     },
     {
-      "question": "what is the name of the school?",
+      "question": "name of the school?",
       "answer": "Arvind Gupta DAV Centenary Public School"
     },
     {
-      "question": "What is the school affiliated with",
+      "question": "school name",
+      "answer": "Arvind Gupta DAV Centenary Public School"
+    },
+    {
+      "question": "What is the school related with",
       "answer": "The school is affiliated with CBSE and DAV schools"
     },
     {
-      "question": "uniform schedule of the school",
-      "answer": "The school has a fixed uniform schedule: Monday: All students are required to wear the complete school uniform, including the specified uniform shirt, pants/skirt, tie, blazer/jumper, and appropriate shoes. \nTuesday: Same as Monday, complete school uniform is mandatory. \nWednesday: House uniform \nThursday: Same as Monday, complete school uniform is mandatory. \nFriday: White uniform."
-    },
-    {
-      "question": "Are there any extracurricular activities integrated into the curriculum?",
+      "question": "extra activities",
       "answer": "Yes, the school encourages students to participate in extracurricular activities as part of the curriculum. These activities can include sports, clubs, arts, and community service projects, providing students with opportunities to develop their leadership and teamwork skills."
     },
     {
-      "question": "What is the curriculum in the school?",
+      "question": "curriculum in the school?",
       "answer": "The curriculum in the School is designed to provide a comprehensive education to students.\n It includes subjects such as Mathematics, English, Science, Social Studies, and Language Arts.\n Additionally, students have access to various elective courses to explore their interests and talents."
     },
     {
@@ -149,15 +141,11 @@
       "answer": "The school has a fixed uniform schedule: \nMonday: All students are required to wear the complete school uniform, including the specified uniform shirt, pants/skirt, tie, blazer/jumper, and appropriate shoes.\nTuesday: Same as Monday, complete school uniform is mandatory.\nWednesday: House uniform\nThursday: Same as Monday, complete school uniform is mandatory.\nFriday: White uniform."
     },
     {
-      "question": "Are there any extracurricular activities integrated into the curriculum?",
-      "answer": "Yes, the school encourages students to participate in extracurricular activities as part of the curriculum. These activities can include sports, clubs, arts, and community service projects, providing students with opportunities to develop their leadership and teamwork skills."
-    },
-    {
       "question": "Thank you for your help!",
       "answer": "You're welcome! If you have any more questions, feel free to ask. Have a great day!"
     },
     {
-      "question": "What hygiene practices are being promoted at the school?",
+      "question": "hygiene practices",
       "answer": "The school promotes various hygiene practices, including regular handwashing, covering coughs and sneezes, maintaining clean personal spaces, and proper waste disposal."
     },
     {
