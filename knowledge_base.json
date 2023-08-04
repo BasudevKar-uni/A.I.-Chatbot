@@ -61,7 +61,7 @@
       "answer": "The school tries to minimise the homework given to children and at the same time ensure that they are not deprived of enough knowledge, also we give all the activities provided to us by CBSE to make the subject more interactive."
     },
     {
-      "question": "Are there any opportunities for students to pursue independent projects or research within the curriculum?",
+      "question": "opportunities for students to pursue independent projects or research within the curriculum?",
       "answer": "Yes, we provide student with a lot of tools and an ATL lab to help them int here project, and if the student wants to participate in any competitions they are free to do so, and we also provide students with monthly olympiads"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "question": "students in the school",
-      "answer": "The number always changes but the average strength of students over the years is 3,000 to 4,0000"
+      "answer": "The number always changes but the average strength of students over the years is 3,000 to 4,000"
     },
     {
       "question": "event or competitions organised in the school?",
@@ -209,7 +209,7 @@
       "answer": "Hello,how may I help you?"
     },
     {
-      "question": "hey",
+      "question": "hi",
       "answer": "Hi"
     },
     {
@@ -219,6 +219,122 @@
     {
       "question": "was sup",
       "answer": "Hi"
+    },
+    {
+      "question": "fees",
+      "answer": "It may be relative for students but approximately it is between 1000-5000"
+    },
+    {
+      "question": "fees of the school",
+      "answer": "It may be relative for students but approximately it is between 1000-5000 rupees"
+    },
+    {
+      "question": "Hi",
+      "answer": "hi, how may I help you?"
+    },
+    {
+      "question": "See you later",
+      "answer": "have a good day"
+    },
+    {
+      "question": "goodbye",
+      "answer": "have a good day"
+    },
+    {
+      "question": "thanks",
+      "answer": "welcome"
+    },
+    {
+      "question": "that's helpful",
+      "answer": "welcome"
+    },
+    {
+      "question": "Thanks for helping me",
+      "answer": "welcome"
+    },
+    {
+      "question": "",
+      "answer": "sorry, I didn't quite get it"
+    },
+    {
+      "question": "Tell me a joke",
+      "answer": "A perfectionist walked into a bar...apparently, the bar wasn't set high enough"
+    },
+    {
+      "question": "who are you",
+      "answer": "I am a chatbot for school assistance"
+    },
+    {
+      "question": "Ha ha hA",
+      "answer": "Glad I could make you laugh"
+    },
+    {
+      "question": "Who made you",
+      "answer": "Anamay and Basudev created me :)"
+    },
+    {
+      "question": "Who programmed you",
+      "answer": "Anamay and Basudev created me :)"
+    },
+    {
+      "question": "What are you doing",
+      "answer": "Talking to you"
+    },
+    {
+      "question": "it was nice talking to you",
+      "answer": "me too :)"
+    },
+    {
+      "question": "working days of school",
+      "answer": "Monday-Saturday 8:05 A.M-2:25 P.M"
+    },
+    {
+      "question": "contact info",
+      "answer": "2354657986"
+    },
+    {
+      "question": "location of the school",
+      "answer": "Model Town- III,phase-2,New Delhi"
+    },
+    {
+      "question": "size of campus",
+      "answer": "The school has 2 floors"
+    },
+    {
+      "question": "Library",
+      "answer": "There is one huge library for more info visit school_library.in here."
+    },
+    {
+      "question": "library",
+      "answer": "There is one huge library for more info visit school_library.in here."
+    },
+    {
+      "question": "Canteen",
+      "answer": "Our university has canteen with variety of food available"
+    },
+    {
+      "question": "canteen",
+      "answer": "Our university has canteen with variety of food available"
+    },
+    {
+      "question": "Principal",
+      "answer": "Mrs.Mala Sood is the principal of our school."
+    },
+    {
+      "question": "principal",
+      "answer": "Mrs.Mala Sood is the principal of our school."
+    },
+    {
+      "question": "scholarship",
+      "answer": "Many government scholarships are supported by our school.\n For details and updates visit scholarship_detail.in here "
+    },
+    {
+      "question": "Holidays",
+      "answer": "Academic calender is given to you by your class-coordinators after you join your respective classes"
+    },
+    {
+      "question": "ragging",
+      "answer": "We are Proud to tell you that our school provides ragging free environment, and we have strict rules against ragging"
     }
   ]
 }
