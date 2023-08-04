@@ -22,24 +22,29 @@ $$    $$/ $$ |  $$ |$$    $$ |  $$  $$/        $$    $$/ $$    $$/   $$  $$/
 import json
 from difflib import get_close_matches
 
+
 def load_knowledge_base(file_path: str):
     with open(file_path, 'r') as file:
         data: dict = json.load(file)
     return data
 
+
 def save_knowledge_base(file_path: str, data: dict):
     with open(file_path, 'w') as file:
         json.dump(data, file, indent=2)
 
+
 def find_best_match(user_question: str, questions: list[str]) -> str | None:
     matches: list = get_close_matches(user_question, questions, n=1, cutoff=0.6)
     return matches[0] if matches else None
+
 
 def get_answer_for_question(question: str, knowledge_base: dict) -> str | None:
     for q in knowledge_base["question"]:
         if q["question"] == question:
             return q["answer"]
     return None
+
 
 def chatbot():
     knowledge_base: dict = load_knowledge_base('knowledge_base.json')
@@ -48,12 +53,11 @@ def chatbot():
         user_input: str = input("You: ")
 
         if user_input.lower() == 'exit':
-         print("Bot: Bye")   
-         break
+            print("Bot: Bye")
+            break
         elif user_input.lower() == 'bye':
-         print("Bot: Bye")   
-         break
-
+            print("Bot: Bye")
+            break
 
         best_match: str | None = find_best_match(user_input, [q["question"] for q in knowledge_base["question"]])
 
@@ -61,7 +65,9 @@ def chatbot():
             answer: str = get_answer_for_question(best_match, knowledge_base)
             print(f"Bot: {answer}")
         else:
-            print("Bot: I am not able to find answer to your question but I can refer you to the school website 'http://www.agdav.edu.in'? ")
+            print("Bot: I am not able to find answer to your question but I can refer you to the school website 'http://www.agdav.edu.in'?\n or you can specify \n check you spellings ")
+
 
 if __name__ == "__main__":
     chatbot()
+
