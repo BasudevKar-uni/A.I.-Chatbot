@@ -89,11 +89,11 @@
       "answer": "Yes there are at least 3-4 competition organised per month!, and events are also organised as per any festival."
     },
     {
-      "question": "How are you",
+      "question": "how are you",
       "answer": "As an A.I. chat bot, I don't have personal experiences or emotions, so I don't have a state of being in the way humans do. However, I'm here and ready to help you with any questions or tasks you have. How can I assist you today?"
     },
     {
-      "question": "Hi there",
+      "question": "hi there",
       "answer": "Hi,How can I help you "
     },
     {
@@ -346,6 +346,10 @@
     {
       "question": "restricted articles",
       "answer": "The restricted items are:\nWeapons\nDrugs and alcohol\nTobacco and vaping products\nSharp objects and tools\nDangerous or disruptive objects\nInappropriate reading materials\nElectronic devices"
+    },
+    { 
+      "question": "rules",
+      "answer": "Some basic rules of the school are - \nNo smart devices allowed in school premises. \nStudents have to strictly follow the uniform schedule (to know about the schedule search: Uniform schedule). \nAll student should must carry there ID card with them. \nRunning in hallways is strictly prohibited. \nThe personal Data in the diary should be completed and signed by parents. \nThe student cannot attach any external devices to the smart board. \nIf any student fails to comply with the mentioned rules, strict action will be taken against him/her."
     }
   ]
 }
