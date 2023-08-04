@@ -54,7 +54,7 @@
     },
     {
       "question": "additional language",
-      "answer": "Yes, there are paid clubs for the kids from 5th to 8th class."
+      "answer": "Yes, there are paid clubs for the kids from 5th to 8th class for foreign language."
     },
     {
       "question": "homework",
@@ -114,6 +114,14 @@
     },
     {
       "question": "specialized programs",
+      "answer": "Yes, the school provides specialized programs to cater to the needs of both gifted students and those with special needs. The school offers gifted education programs to challenge and nurture the talents of high-achieving students, as well as support services to ensure that all students can thrive academically."
+    },
+    {
+      "question": "disabled children",
+      "answer": "Yes, the school provides specialized programs to cater to the needs of both gifted students and those with special needs. The school offers gifted education programs to challenge and nurture the talents of high-achieving students, as well as support services to ensure that all students can thrive academically."
+    },
+    {
+      "question": "gifted students",
       "answer": "Yes, the school provides specialized programs to cater to the needs of both gifted students and those with special needs. The school offers gifted education programs to challenge and nurture the talents of high-achieving students, as well as support services to ensure that all students can thrive academically."
     },
     {
@@ -335,6 +343,42 @@
     {
       "question": "ragging",
       "answer": "We are Proud to tell you that our school provides ragging free environment, and we have strict rules against ragging"
+    },
+    {
+      "question": "payment method",
+      "answer": "We accept most of the cards and UPI payments also\n if you want to pay offline you can visit the school reception"
+    },
+    {
+      "question": "are teachers good in teaching",
+      "answer": "Yes, We are most proud of our teachers they are magnificent in teaching."
+    },
+    {
+      "question": "e-mail",
+      "answer": "E-mail:- principal@agdav.edu.in\nE-mail:- office@agdav.edu.in"
+    },
+    {
+      "question": "streams",
+      "answer": "The school has all 3 streams available:\n Science \nCommerce \nArts \nfor more info please contact the school"
+    },
+    {
+      "question": "structure of fees",
+      "answer": "The total fees contains:\ntuition fees \ntransport fees(optional)\nDevelopment fund."
+    },
+    {
+      "question": "reservations",
+      "answer": "there are reservations in ews, seats for 100 students"
+    },
+    {
+      "question": "criteria for streams",
+      "answer": "Science Steam: Passed class 11th with a minimum percentage of 55%\nCommerce Stream: Passed class 10th with a minimum percentage of 50%\nHumanities Stream: Passed class 10th with a minimum percentage of 50%"
+    },
+    {
+      "question": "streams criteria",
+      "answer": "Science Steam: Passed class 11th with a minimum percentage of 55%\nCommerce Stream: Passed class 10th with a minimum percentage of 50%\nHumanities Stream: Passed class 10th with a minimum percentage of 50%"
+    },
+    {
+      "question": "restricted articles",
+      "answer": "The restricted items are:\nWeapons\nDrugs and alcohol\nTobacco and vaping products\nSharp objects and tools\nDangerous or disruptive objects\nInappropriate reading materials\nElectronic devices"
     }
   ]
 }
