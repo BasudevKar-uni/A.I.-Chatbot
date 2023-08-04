@@ -73,7 +73,7 @@
       "answer": "No, smart devices are strictly prohibited in our school, even smartwatches are also not allowed."
     },
     {
-      "question": "What is the exam schedule?",
+      "question": "exam schedule?",
       "answer": "For the classes below 3rd there is no exam, just normal test, \n for the classes above the exams are divided into four parts, 1st in July of 20 marks, 2nd in September of 80 marks, 3rd in January of 20marks, and the final paper in February of 80marks."
     },
     {
@@ -145,7 +145,7 @@
       "answer": "The curriculum in the School is designed to provide a comprehensive education to students.\n It includes subjects such as Mathematics, English, Science, Social Studies, and Language Arts.\n Additionally, students have access to various elective courses to explore their interests and talents."
     },
     {
-      "question": "What is the uniform schedule of the school",
+      "question": "uniform schedule",
       "answer": "The school has a fixed uniform schedule: \nMonday: All students are required to wear the complete school uniform, including the specified uniform shirt, pants/skirt, tie, blazer/jumper, and appropriate shoes.\nTuesday: Same as Monday, complete school uniform is mandatory.\nWednesday: House uniform\nThursday: Same as Monday, complete school uniform is mandatory.\nFriday: White uniform."
     },
     {
@@ -161,15 +161,15 @@
       "answer": "The school facilities, including restrooms and classrooms, are cleaned and sanitized daily to ensure a clean and hygienic environment for students and staff."
     },
     {
-      "question": "disposal of waste and garbage",
+      "question": "waste and garbage",
       "answer": "The school follows proper waste disposal procedures, including having designated bins for different types of waste and ensuring regular waste collection and disposal."
     },
     {
-      "question": "health-related emergencies at school?",
+      "question": "health-related emergencies?",
       "answer": "Yes, the school has protocols in place to handle health-related emergencies, including first aid procedures and immediate access to medical assistance if needed."
     },
     {
-      "question": "clean drinking water throughout the campus?",
+      "question": "drinking water",
       "answer": "Yes, the school provides access to clean drinking water through water fountains or water dispensers located throughout the campus."
     },
     {
@@ -177,15 +177,18 @@
       "answer": "The results of past year can taken out from the school website or you can contact the previous year class teacher."
     },
     {
-      "question": "students provided equipments for sports",
+      "question": "equipments for sports",
       "answer": "Yes, for students we have a large field with a basketball court, football area and we provide students with teachers for every sports, namely- basketball, football, cricket, volleyball, athletics."
     },
     {
       "question": "at what time students have to reach school?",
       "answer": "The school gates close sharply at 8:30."
     },
+    { 
+      "question": "at what time school's gate closes?",
+      "answer":"The school gates close sharply at 8:30."
     {
-      "question": "what is the notebook scheme?",
+      "question": "notebook scheme?",
       "answer": "The students have to buy the notebooks from school only and the books too till 9th class."
     },
     {
@@ -213,56 +216,36 @@
       "answer": "The resources and facilities in our school are:\n Library\n ATL\n Computer Lab\n Physics lab\nChemistry Lab\nBiology Lab\n Playground etc."
     },
     {
-      "question": "hi",
-      "answer": "Hello,how may I help you?"
-    },
-    {
-      "question": "hi",
+      "question": "what's sup",
       "answer": "Hi"
-    },
-    {
-      "question": "how are you",
-      "answer": "fine thank you"
-    },
-    {
-      "question": "was sup",
-      "answer": "Hi"
-    },
-    {
-      "question": "fees",
-      "answer": "It may be relative for students but approximately it is between 1000-5000"
-    },
-    {
-      "question": "fees of the school",
-      "answer": "It may be relative for students but approximately it is between 1000-5000 rupees"
     },
     {
       "question": "Hi",
-      "answer": "hi, how may I help you?"
+      "answer": "Hi, how may I help you?"
     },
     {
       "question": "See you later",
-      "answer": "have a good day"
+      "answer": "Have a good day"
     },
     {
       "question": "goodbye",
-      "answer": "have a good day"
+      "answer": "Have a good day"
     },
     {
       "question": "thanks",
-      "answer": "welcome"
+      "answer": "Welcome"
     },
     {
       "question": "that's helpful",
-      "answer": "welcome"
+      "answer": "Welcome"
     },
     {
       "question": "Thanks for helping me",
-      "answer": "welcome"
+      "answer": "Welcome"
     },
     {
-      "question": "",
-      "answer": "sorry, I didn't quite get it"
+      "question": " ",
+      "answer": "Sorry, I didn't quite get it"
     },
     {
       "question": "Tell me a joke",
@@ -278,11 +261,11 @@
     },
     {
       "question": "Who made you",
-      "answer": "Anamay and Basudev created me :)"
+      "answer": "Anamay and Basudev are my creators and like to think of them as my god :)"
     },
     {
       "question": "Who programmed you",
-      "answer": "Anamay and Basudev created me :)"
+      "answer": "Anamay and Basudev are my creators and like to think of them as my god :)"
     },
     {
       "question": "What are you doing",
@@ -290,43 +273,31 @@
     },
     {
       "question": "it was nice talking to you",
-      "answer": "me too :)"
+      "answer": "I loved it too :), is there anything else I can help you with?"
     },
     {
-      "question": "working days of school",
+      "question": "working days",
       "answer": "Monday-Saturday 8:05 A.M-2:25 P.M"
     },
     {
-      "question": "contact info",
+      "question": "contact",
       "answer": "2354657986"
     },
     {
-      "question": "location of the school",
+      "question": "location",
       "answer": "Model Town- III,phase-2,New Delhi"
     },
     {
-      "question": "size of campus",
-      "answer": "The school has 2 floors"
-    },
-    {
-      "question": "Library",
-      "answer": "There is one huge library for more info visit school_library.in here."
+      "question": "size",
+      "answer": "The school has 3 floors"
     },
     {
       "question": "library",
       "answer": "There is one huge library for more info visit school_library.in here."
     },
     {
-      "question": "Canteen",
-      "answer": "Our university has canteen with variety of food available"
-    },
-    {
       "question": "canteen",
       "answer": "Our university has canteen with variety of food available"
-    },
-    {
-      "question": "Principal",
-      "answer": "Mrs.Mala Sood is the principal of our school."
     },
     {
       "question": "principal",
@@ -337,7 +308,7 @@
       "answer": "Many government scholarships are supported by our school.\n For details and updates visit scholarship_detail.in here "
     },
     {
-      "question": "Holidays",
+      "question": "holidays",
       "answer": "Academic calender is given to you by your class-coordinators after you join your respective classes"
     },
     {
@@ -349,16 +320,12 @@
       "answer": "We accept most of the cards and UPI payments also\n if you want to pay offline you can visit the school reception"
     },
     {
-      "question": "are teachers good in teaching",
-      "answer": "Yes, We are most proud of our teachers they are magnificent in teaching."
-    },
-    {
       "question": "e-mail",
       "answer": "E-mail:- principal@agdav.edu.in\nE-mail:- office@agdav.edu.in"
     },
     {
       "question": "streams",
-      "answer": "The school has all 3 streams available:\n Science \nCommerce \nArts \nfor more info please contact the school"
+      "answer": "The school has all 3 streams available:\n Science \nCommerce \nArts"
     },
     {
       "question": "structure of fees",
