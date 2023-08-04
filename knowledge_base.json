@@ -1,5 +1,5 @@
 {
-  "questions": [
+  "question": [
     {
       "question": "Hello!",
       "answer": "Hey"
@@ -10,10 +10,10 @@
     },
    {
       "question": "what is the school fees?",
-      "answer": "Can you specify the question a bit more? Do you want to know the - \n Tution fees \n Admission fees \n Transportation fees"
+      "answer": "Can you specify the question a bit more? Do you want to know the - \n Tuition fees \n Admission fees \n Transportation fees"
     },
     {
-      "question": "tution fees",
+      "question": "tuition fees",
       "answer": "which class are you talking about, junior or senior?"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "question": "optional subjects available, and how can students choose them",
-      "answer": "Yes, there are optional subjects avalaible, \n In the 9th standard the students are given choice between Hindi and Sanskrit.There is also choice for skill subjects such as AI,IT and Food Production"
+      "answer": "Yes, there are optional subjects available, \n In the 9th standard the students are given choice between Hindi and Sanskrit.There is also choice for skill subjects such as AI,IT and Food Production"
     },
     {
       "question": "assessments and grading",
@@ -146,7 +146,7 @@
     },
     {
       "question": "hygiene practices",
-      "answer": "The school promotes various hygiene practices, including regular handwashing, covering coughs and sneezes, maintaining clean personal spaces, and proper waste disposal."
+      "answer": "The school promotes various hygiene practices, including regular hand washing, covering coughs and sneezes, maintaining clean personal spaces, and proper waste disposal."
     },
     {
       "question": "school facilities cleaned",
@@ -182,7 +182,7 @@
     },
     {
       "question": "what are the different subjects taught to students?",
-      "answer": "It dependes on witch classes are you talking about?, Is it 1st to 2nd or 3rd to 5th or 6th to 8th or 9th to 10th?"
+      "answer": "It depends on witch classes are you talking about?, Is it 1st to 2nd or 3rd to 5th or 6th to 8th or 9th to 10th?"
     },
     {
       "question": "1st to 2nd",
@@ -201,8 +201,24 @@
       "answer": "English, Hindi/Sanskrit, Mathematics, Science, Social Science."
     },
     {
-      "question": "resources and facilities of school"
-      "answer": "The resources and ficilities in our school are:\n Library\n ATL\n Computer Lab\n Physics lab\nChemistry Lab\nBiology Lab\n Playground etc."
+      "question": "resources and facilities of school",
+      "answer": "The resources and facilities in our school are:\n Library\n ATL\n Computer Lab\n Physics lab\nChemistry Lab\nBiology Lab\n Playground etc."
+    },
+    {
+      "question": "hi",
+      "answer": "Hello,how may I help you?"
+    },
+    {
+      "question": "hey",
+      "answer": "Hi"
+    },
+    {
+      "question": "how are you",
+      "answer": "fine thank you"
+    },
+    {
+      "question": "was sup",
+      "answer": "Hi"
     }
-    ] 
+  ]
 }
